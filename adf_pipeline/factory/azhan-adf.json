@@ -1,0 +1,9 @@
+{
+	"name": "azhan-adf",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "473945c4-e40a-469b-ae76-8985a58238bc",
+		"tenantId": "2c048ae5-0ded-4805-ac06-2ee317376301"
+	}
+}
